@@ -1,16 +1,26 @@
-## Hi there 👋
+# À propos de moi 👋
 
-<!--
-**LilaKaci-AdminTech/LilaKaci-AdminTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dynamique et rigoureuse, je combine une solide expérience dans l'enseignement de la langue française et une expertise en gestion administrative et secrétariat technique. Passionnée par la transmission des connaissances, l'organisation et le numérique.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Compétences clés
+
+* **Bureautique & Productivité :** Microsoft Excel, Google Workspace, OneDrive
+* **Organisation & Planification :** Gestion de planning, Calendly, Suivi administratif
+* **Communication & Design :** Canva, Réseaux professionnels (LinkedIn, WhatsApp Business)
+* **Langues :** Maîtrise approfondie du Français (Enseignement, rédaction, correction)
+
+---
+
+## 🎯 Centres d'intérêt & Projets
+
+* **Littérature & Culture :** Animation de clubs de lecture et projets pédagogiques francophones.
+* **Cinéma & Récits :** Passionnée par les films de survie, les thrillers psychologiques et les histoires de résilience.
+* **Veille technologique :** Apprentissage continu des outils collaboratifs modernes.
+
+---
+
+## 📬 Me contacter
+
+* **LinkedIn :** [Mon profil professionnel](Votre_Lien_LinkedIn_Ici)
