@@ -4,6 +4,15 @@ Dynamique et rigoureuse, je combine une solide expérience dans l'enseignement d
 
 ---
 
+### 🛠️ Compétences clés
+
+* **Bureautique & Productivité :** Microsoft Excel, Google Workspace, OneDrive
+* **Organisation & Planification :** Gestion de planning, Calendly, Suivi administratif
+* **Communication & Design :** Canva
+* **Réseaux professionnels :** [Mon profil LinkedIn](https://www.linkedin.com/in/lila-kaci)
+* **Langues :** Maîtrise approfondie du Français
+---
+
 ## 🛠️ Compétences clés
 
 * **Bureautique & Productivité :** Microsoft Excel, Google Workspace, OneDrive
